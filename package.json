@@ -1,0 +1,20 @@
+{
+  "name": "cloud-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rachnicrice/cloud-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rachnicrice/cloud-server/issues"
+  },
+  "homepage": "https://github.com/Rachnicrice/cloud-server#readme"
+}
